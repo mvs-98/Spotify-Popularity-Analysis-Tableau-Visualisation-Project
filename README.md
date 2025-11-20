@@ -16,7 +16,7 @@ The dataset includes various song-level metrics from Spotify, including:
 * Popularity
 * Track-level data
 
-This dataset was imported into Tableau using the **Connect to a File → Microsoft Excel** option.
+This dataset was imported into Tableau using the **Connect to a File → Text File** option.
 
 ---
 
